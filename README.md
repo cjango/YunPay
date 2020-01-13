@@ -2,7 +2,7 @@
 
 ## 1.安装
 
-> $ composer require cjason/yun-pay
+> $ composer require jasonc/yun-pay
 
 > php artisan vendor:publish  --provider="Jason\YunPay\ServiceProvider"
 
