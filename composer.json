@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Jason\\YunPay": "src/"
+            "Jason\\YunPay\\": "src/"
         }
     },
     "extra": {
